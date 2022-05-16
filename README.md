@@ -1,4 +1,5 @@
-- 👋 Hi, I’m ehsan azargoshasb
+- 👋 Hi there
+  My name is Ehsan. Thanks for taking the time to view my GitHub Profile.
 - 👀 I’m interested in Data science, machine learning and deeplearning, python
 - 🌱 I’m currently learning Tensorflow
 - 💞️ I’m looking to collaborate on computer vision projects
